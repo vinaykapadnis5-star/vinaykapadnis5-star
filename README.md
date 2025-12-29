@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Vinay 👋
 
-<!--
-**vinaykapadnis5-star/vinaykapadnis5-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📊 Skilled in SQL | Excel | Power BI | Python  
+📍 India | Open to Remote Opportunities
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- SQL (Joins, CTEs, Subqueries)
+- Excel (Pivot Tables, XLOOKUP)
+- Power BI (DAX, Dashboards)
+- Python (Pandas, NumPy)
+- Statistics & Data Cleaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects
+- Sales Analysis Dashboard (Power BI)
+- SQL Data Cleaning Project
+- E-commerce Data Analysis
+- Customer Churn Analysis
+
+### 📫 Connect with Me
+
+- Email: vinay.kapadnis5@gmail.com
